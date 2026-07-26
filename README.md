@@ -2,12 +2,27 @@
 
 Дипломные и учебные проекты, выполненные в процессе обучения веб-разработке. Ниже — работы от простых к более сложным: от базовой логики и вёрстки до полноценного fullstack-приложения.
 
+Электронные сертификаты по пройденным модулям и курсам хранятся в папке [`certificates/`](certificates/):
+
+- [Adobe Photoshop основы для веб-дизайнера](certificates/Adobe%20Photoshop%20основы%20для%20веб-дизайнера.pdf)
+- [HTML-верстка с нуля до первого макета](certificates/HTML-верстка%20с%20нуля%20до%20первого%20макета.pdf)
+- [Адаптивная и мобильная верстка](certificates/Адаптивная%20и%20мобильная%20верстка.pdf)
+- [Обучение основам работы в Figma с нуля](certificates/Обучение%20основам%20работы%20в%20Figma%20с%20нуля.pdf)
+- [Основы JavaScript в браузере](certificates/Основы%20JavaScript%20в%20браузере.pdf)
+- [Основы JavaScript](certificates/Основы%20JavaScript.pdf)
+- [Основы PHP](certificates/Основы%20PHP.pdf)
+- [Основы программирования](certificates/Основы%20програмирования.pdf)
+- [Продвинутый JavaScript и основы React](certificates/Продвинутый%20JavaScript%20и%20основы%20React.pdf)
+- [Продвинутый PHP](certificates/Продвинутый%20PHP.pdf)
+- [Свидетельство о заверении обучения](certificates/Свидетельство%20о%20заверении%20обучения.pdf)
+
 ---
 
 ## 1. Крестики-нолики
 
 **Модуль:** «Основы программирования»  
-**Репозиторий:** [github.com/IvanEvdokhin/tictactoe](https://github.com/IvanEvdokhin/tictactoe)
+**Репозиторий:** [github.com/IvanEvdokhin/tictactoe](https://github.com/IvanEvdokhin/tictactoe)  
+**Сертификат:** [Основы программирования](certificates/Основы%20програмирования.pdf)
 
 Браузерная игра для двух игроков на квадратном поле. Первый проект, где была реализована игровая логика на JavaScript.
 
@@ -25,7 +40,8 @@
 ## 2. NOEMI — адаптивный блог
 
 **Модуль:** «Адаптивная и мобильная вёрстка»  
-**Репозиторий:** [github.com/IvanEvdokhin/adaptive_and_mobile](https://github.com/IvanEvdokhin/adaptive_and_mobile)
+**Репозиторий:** [github.com/IvanEvdokhin/adaptive_and_mobile](https://github.com/IvanEvdokhin/adaptive_and_mobile)  
+**Сертификат:** [Адаптивная и мобильная вёрстка](certificates/Адаптивная%20и%20мобильная%20верстка.pdf)
 
 Одностраничный сайт блога о творчестве, спорте и образе жизни. Чистая вёрстка без фреймворков и препроцессоров.
 
@@ -44,7 +60,8 @@
 ## 3. Учёт личных финансов
 
 **Модуль:** «Базовый JavaScript в браузере»  
-**Репозиторий:** [github.com/IvanEvdokhin/financial_management](https://github.com/IvanEvdokhin/financial_management)
+**Репозиторий:** [github.com/IvanEvdokhin/financial_management](https://github.com/IvanEvdokhin/financial_management)  
+**Сертификат:** [Основы JavaScript в браузере](certificates/Основы%20JavaScript%20в%20браузере.pdf)
 
 Веб-приложение для учёта доходов и расходов. Готовая HTML/CSS-разметка и сервер уже были в проекте — задача заключалась в реализации клиентской JavaScript-логики.
 
@@ -63,7 +80,8 @@
 ## 4. Биржа Неткоинов
 
 **Модуль:** «Основы JavaScript»  
-**Репозиторий:** [github.com/IvanEvdokhin/netcoin](https://github.com/IvanEvdokhin/netcoin)
+**Репозиторий:** [github.com/IvanEvdokhin/netcoin](https://github.com/IvanEvdokhin/netcoin)  
+**Сертификат:** [Основы JavaScript](certificates/Основы%20JavaScript.pdf)
 
 Сайт-биржа крипто-стартапа: покупка внутренней валюты **Неткоин**, конвертация, переводы другим пользователям и список избранных.
 
@@ -82,7 +100,8 @@
 ## 5. Retro Game
 
 **Модуль:** «Продвинутый JavaScript»  
-**Репозиторий:** [github.com/IvanEvdokhin/retro_game](https://github.com/IvanEvdokhin/retro_game)
+**Репозиторий:** [github.com/IvanEvdokhin/retro_game](https://github.com/IvanEvdokhin/retro_game)  
+**Сертификат:** [Продвинутый JavaScript и основы React](certificates/Продвинутый%20JavaScript%20и%20основы%20React.pdf)
 
 Пошаговая фэнтези-игра на поле 8×8: герои против нечисти, бесконечные уровни, сохранение и загрузка прогресса.
 
@@ -102,7 +121,8 @@
 ## 6. ИдёмВКино — онлайн-бронирование билетов
 
 **Курс:** «Веб-разработчик с нуля: Backend-разработка на PHP»  
-**Репозиторий:** [github.com/IvanEvdokhin/online_cinema](https://github.com/IvanEvdokhin/online_cinema)
+**Репозиторий:** [github.com/IvanEvdokhin/online_cinema](https://github.com/IvanEvdokhin/online_cinema)  
+**Сертификат:** [Свидетельство о заверении обучения](certificates/Свидетельство%20о%20заверении%20обучения.pdf)
 
 Дипломная работа всего курса.
 Полноценная система бронирования билетов в кинотеатр: публичный сайт для гостей и административная панель для управления залами, сеансами и продажами.
