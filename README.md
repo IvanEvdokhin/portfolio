@@ -11,10 +11,13 @@
 - [Основы JavaScript в браузере](certificates/Основы%20JavaScript%20в%20браузере.pdf)
 - [Основы JavaScript](certificates/Основы%20JavaScript.pdf)
 - [Основы PHP](certificates/Основы%20PHP.pdf)
-- [Основы программирования](certificates/Основы%20програмирования.pdf)
+- [Основы програмирования](certificates/Основы%20програмирования.pdf)
 - [Продвинутый JavaScript и основы React](certificates/Продвинутый%20JavaScript%20и%20основы%20React.pdf)
 - [Продвинутый PHP](certificates/Продвинутый%20PHP.pdf)
 - [Свидетельство о заверении обучения](certificates/Свидетельство%20о%20заверении%20обучения.pdf)
+- [Диплом о профессиональной переподготовке](certificates/Диплом.jpg)
+- [Приложение к диплому страница 1](certificates/Приложение%201.jpg)
+- [Приложение к диплому страница 2](certificates/Приложение%202.jpg)
 
 ---
 
